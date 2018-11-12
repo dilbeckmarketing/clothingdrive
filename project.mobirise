@@ -1,0 +1,211 @@
+{
+  "settings": {
+    "name": "Clothes the Deal Share Images",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      }
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.3",
+    "siteFonts": [],
+    "uniqCompNum": 5,
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-3a62f1abfc07-1-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showName": true,
+            "showOccupation": false,
+            "showTexts": true,
+            "showSocials": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f5f5f5",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "header": "\"Clothes The Deal\" Clothing Drive<br>Images to share on social media",
+          "subheader": "The images below are designed to be shared on Facebook, Instagram, and Twitter.<br><br><b>To download the images:</b><br>1 – Right-click on the image you wish to save.<br>2 – Click \"Save  picture as\"…<br>3 – Navigate to the folder where you wish to save the image to, then click Save.<b><br></b><br>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2018-clothing-drive-crm-600x900.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title1": "Option 1",
+          "subtitle1": "Founder",
+          "caption1": "",
+          "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2018-clothing-drive-social2-600x750.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title2": "Option 2",
+          "subtitle2": "Reception",
+          "caption2": "",
+          "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2018-clothing-drive-social-600x750.jpg",
+              "class": "mbr-figure__img img-responsive",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "title3": "Option 3",
+          "subtitle3": "Sales Team",
+          "caption3": "",
+          "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-11-12-at-3.21.47-pm-1400x682.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "EMAIL TEMPLATES NOW AVAILABLE IN THE CRM",
+          "text": "Please visit the CRM, select \"Marketing\" &gt;&gt;&gt; \"Templates\" &gt;&gt;&gt; and select the category \"Clothing Drive\". Here you'll find 3 templates called \"",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\">Check video</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABOUT \"clothes the deal\" clothing drive at dilbeck real estate",
+          "text": "November 14th - December 14th | \"Clothes the Deal\" Clothing Drive<br><br>Dilbeck Real Estate will be collecting gently used business clothing at all 14 offices for it’s annual clothing drive, November 14 - December 14.&nbsp; Donations will benefit “Clothes the Deal”, a local charity helping low income and disabled people during their search for a new job or better&nbsp;employment opportunities by providing business clothing and accessories.<br><br>Please join us in providing&nbsp;job seekers with the professional clothing they need to rejoin the workforce and reinvent their lives.&nbsp;<br><br>Clothes the Deal <a href=\"http://www.clothesthedeal.org/index.html\" target=\"_blank\">Website</a>.<br>Clothes the Deal <a href=\"https://www.facebook.com/clothesthedeal/\" target=\"_blank\">Facebook Page</a>.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box11",
+          "_anchor": "msg-box11-3"
+        }
+      ]
+    }
+  }
+}
