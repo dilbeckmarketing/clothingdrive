@@ -248,7 +248,7 @@
             }
           },
           "title": "EMAIL TEMPLATES NOW AVAILABLE IN THE CRM",
-          "text": "Please visit the CRM, select \"Marketing\" &gt;&gt;&gt; \"Templates\" &gt;&gt;&gt; and select the category \"Clothing Drive\". Here you'll find 3 templates called \"",
+          "text": "Please visit the CRM, select \"Marketing\" &gt;&gt;&gt; \"Templates\" &gt;&gt;&gt; and select the category \"Clothing Drive\". Here you'll find 3 templates called \"Clothes The Deal Clothing Drive | Option 1,2,3\".",
           "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\">Check video</a>",
           "alias": "unicore/components",
           "_tags": [
